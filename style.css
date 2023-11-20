@@ -1,0 +1,7 @@
+.bg-blur {
+    backdrop-filter: blur(200px);
+}
+
+.bg-green {
+    background-color: #3DB980;
+}
